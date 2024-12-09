@@ -13,9 +13,13 @@
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
-- Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: http://www.instagram.com
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![image](https://github.com/user-attachments/assets/ce686bf7-7262-4a27-acea-1b06287b9774)
+![image](https://github.com/user-attachments/assets/d2726709-37a5-44c3-bedf-6b6cb28da5e7)
+
+
+
+
